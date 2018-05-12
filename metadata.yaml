@@ -1,0 +1,33 @@
+_repo: Making-Both-Ends-Meet--13-The-income-and-outlay-of-New-York-working-girls_14798
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Wyatt, Edith
+    alias: Wyatt, Edith Franklin
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '1686'
+    url: http://www.gutenberg.org/2009/agents/1686
+  - agent_name: Clark, Sue Ainslie
+    gutenberg_agent_id: '5692'
+    url: http://www.gutenberg.org/2009/agents/5692
+description: ''
+gutenberg_issued: '2005-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14798'
+  lccn: '11023370'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Employment -- New York (State) -- New York'
+- !lcsh 'Wages -- New York (State) -- New York'
+- !lcsh 'Cost and standard of living -- New York (State) -- New York'
+- !lcc 'HD'
+title: 'Making Both Ends Meet: The income and outlay of New York working girls'
+url: http://www.gutenberg.org/ebooks/14798
